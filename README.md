@@ -1,1 +1,1 @@
-```It's time to build```
+```It's time to build.```
